@@ -5,6 +5,7 @@ This repository contains an experimental implementation of a Quantum-enhanced In
 The model integrates quantum neural networks into a message-passing GNN using PennyLane, PyTorch Geometric, and PyTorch Lightning.
 
 Scope: Research prototype / proof-of-concept
+
 Application: Edge classification on event graphs (e.g. tracking)
 
 Dataset
