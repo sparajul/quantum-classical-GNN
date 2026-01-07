@@ -1,4 +1,4 @@
-#Quantum Interaction Graph Neural Network (QIGNN)
+%Quantum Interaction Graph Neural Network (QIGNN)
 
 This repository contains an experimental implementation of a Quantum-enhanced Interaction Graph Neural Network (QIGNN) for edge classification on event-based graph data.
 
@@ -10,7 +10,7 @@ Application: Edge classification on event graphs (e.g. tracking)
 
 
 
-#Dataset
+%Dataset
 
 TrackML graph dataset
 
